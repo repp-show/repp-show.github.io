@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+	<channel>
+		<title>Reverse Engineering++</title>
+		<link>http://repp.show</link>
+		<language>en-us</language>
+		<atom:link href="https://repp-show.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+		<copyright>Aaron and Dell</copyright>
+		<itunes:subtitle>Nerd Talk I/O</itunes:subtitle>
+		<itunes:summary>
+			Aaron and Dell talk Reverse Engineering++ -- infosec, materials science, 3d printing, and a smattering of other nerdy matters. An audio hacky makerspace.
+		</itunes:summary>
+		<description>Aaron and Dell talk Reverse Engineering++ -- infosec, materials science, 3d printing, and a smattering of other nerdy matters. An audio hacky makerspace.</description>
+		
+		<itunes:owner>
+			<itunes:name><![CDATA[Aaron, Dell]]></itunes:name>
+			<itunes:email>show@repp.show</itunes:email>
+		</itunes:owner>
+		<itunes:author><![CDATA[Aaron and Dell]]></itunes:author>
+		
+		<image>
+			<url> https://repp-show.github.io/logo.png </url>
+			<title>Reverse Engineering ++</title>
+			<link><![CDATA[https://www.repp.show/]]></link>
+		</image>
+		<itunes:image href="https://repp-show.github.io/logo.png"/>
+		
+		<itunes:category text="Education">
+			<itunes:category text="Self-Improvement"/>
+		</itunes:category>
+		<itunes:category text="Technology"/>
+		<itunes:explicit>no</itunes:explicit>
+		
+		<item>
+			<title>Ep. 0 - Reverse Engineering Plus Plus</title>
+			<itunes:title>Ep. 0 - Reverse Engineering Plus Plus</itunes:title>
+			<pubDate>Sun, Aug 7 2022 15:30:27 -0600</pubDate>
+			<link><![CDATA[https://www.repp.show/home/ep-0-repp]]></link>
+			<itunes:image href="https://repp-show.github.io/logo.png"/>
+			<description> <![CDATA[  Hello world from Aaron and Dell. In this ep, we talk motivation for the show, talk shop about some tooling, and talk about some other nerd shows that inspire us. ]]> </description>
+			<itunes:summary> <![CDATA[  Hello world from Aaron and Dell. In this ep, we talk motivation for the show, talk shop about some tooling, and talk about some other nerd shows that inspire us. ]]> </itunes:summary>
+			<itunes:subtitle> Ep. 0 - Hello world from Aaron and Dell. </itunes:subtitle>
+			<enclosure url="https://drive.google.com/uc?export=download&amp;id=1oRc-3BDFJaUFMSpx9VBNhHNvXf6T06Cc"
+							type="audio/mp3" length="4821"/>
+			<itunes:duration>4821</itunes:duration>
+			
+			<itunes:episode>0</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>technology hacking engineering reverse_engineering science SRE</itunes:keywords>
+		</item>
+		
+		<item>
+			<title>Ep. 1 - Post DEF CON 30 Wrap-Up </title>
+			<itunes:title>Ep. 1 - Post DEF CON 30 Wrap-Up </itunes:title>
+			<pubDate>Sun, Aug 21 2022 23:59:00 -0600</pubDate>
+			<link><![CDATA[https://www.repp.show/home/ep-1-dc30-wu]]></link>
+			<itunes:image href="https://lh5.googleusercontent.com/Ffxw3WWUf8h_aq2rUpWMwfOlvEv7wmRW-0mVU5be8hzPjZU2W-7GpdAhnJhX3lg-bKMIQHvvlKfd3G8Pu3_IWfhry-bFdq-cfzTI-ZSfHFVBgN9AlwmK7TACGVlmdm2GjQ=w1280"/>
+			<description> <![CDATA[  In this Episode, some highlights from DC30 -- the good, the bad, the ugly and some great talks about remotely stopping trucks, an audio engineer's take on infosec, and a tool for dynamic reverse engineering. ]]> </description>
+			<itunes:summary> <![CDATA[  In this Episode, some highlights from DC30 -- the good, the bad, the ugly and some great talks about remotely stopping trucks, an audio engineer's take on infosec, and a tool for dynamic reverse engineering. ]]> </itunes:summary>
+			<itunes:subtitle> Ep. 1 - DEFCON30 Wrap-Up. </itunes:subtitle>
+			<enclosure url="https://drive.google.com/uc?export=download&amp;id=1Wg_4zjoddX-QJv8evyBaj7yCx58hw7tV"
+							type="audio/mp3" length="5256"/>
+			<itunes:duration>5256</itunes:duration>
+			
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>DEFCON dynamic_analysis infosec technology hacking engineering reverse_engineering science SRE</itunes:keywords>
+		</item>
+	</channel>
+</rss>
+	
