@@ -32,6 +32,7 @@
 		<itunes:explicit>no</itunes:explicit>
 		
 		<item>
+			<guid>ed262d0f-7a11-45af-8c89-44bb08326ecf</guid>
 			<title>Ep. 0 - Reverse Engineering Plus Plus</title>
 			<itunes:title>Ep. 0 - Reverse Engineering Plus Plus</itunes:title>
 			<pubDate>Sun, 7 Aug 2022 15:30:27 -0006</pubDate>
@@ -52,6 +53,7 @@
 		</item>
 		
 		<item>
+			<guid>0afb1a8d-1459-4762-a72e-52f40f88e4cf</guid>
 			<title>Ep. 1 - Post DEF CON 30 Wrap-Up </title>
 			<itunes:title>Ep. 1 - Post DEF CON 30 Wrap-Up </itunes:title>
 			<pubDate>Sun, 21 Aug 2022 23:59:00 -0006</pubDate>
