@@ -20,8 +20,8 @@
 		
 		<image>
 			<url> https://repp-show.github.io/logo.png </url>
-			<title>Reverse Engineering ++</title>
-			<link><![CDATA[https://www.repp.show/]]></link>
+			<title>Reverse Engineering++</title>
+			<link>https://www.repp.show/></link>
 		</image>
 		<itunes:image href="https://repp-show.github.io/logo.png"/>
 		
