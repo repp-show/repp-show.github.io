@@ -2,15 +2,15 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
 	<channel>
 		<title>Reverse Engineering++</title>
-		<link>https://repp.show</link>
+		<link>https://www.repp.show</link>
 		<language>en-us</language>
 		<atom:link href="https://repp-show.github.io/feed.xml" rel="self" type="application/rss+xml"/>
 		<copyright>Aaron and Dell</copyright>
 		<itunes:subtitle>Nerd Talk I/O</itunes:subtitle>
 		<itunes:summary>
-			Aaron and Dell talk Reverse Engineering++ -- infosec, materials science, 3d printing, and a smattering of other nerdy matters. An audio hacky makerspace.  You can find more at https://repp.show
+			Aaron and Dell talk Reverse Engineering++ -- infosec, materials science, 3d printing, and a smattering of other nerdy matters. An audio hacky makerspace.  You can find more at https://www.repp.show
 		</itunes:summary>
-		<description>Aaron and Dell talk Reverse Engineering++ -- infosec, materials science, 3d printing, and a smattering of other nerdy matters. An audio hacky makerspace.  You can find more at https://repp.show</description>
+		<description>Aaron and Dell talk Reverse Engineering++ -- infosec, materials science, 3d printing, and a smattering of other nerdy matters. An audio hacky makerspace.  You can find more at https://www.repp.show</description>
 		
 		<itunes:owner>
 			<itunes:name><![CDATA[Aaron, Dell]]></itunes:name>
