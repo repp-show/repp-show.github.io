@@ -2,7 +2,7 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
 	<channel>
 		<title>Reverse Engineering++</title>
-		<link>http://repp.show</link>
+		<link>https://repp.show</link>
 		<language>en-us</language>
 		<atom:link href="https://repp-show.github.io/feed.xml" rel="self" type="application/rss+xml"/>
 		<copyright>Aaron and Dell</copyright>
@@ -21,7 +21,7 @@
 		<image>
 			<url> https://repp-show.github.io/logo.png </url>
 			<title>Reverse Engineering++</title>
-			<link>https://www.repp.show/></link>
+			<link>https://www.repp.show/</link>
 		</image>
 		<itunes:image href="https://repp-show.github.io/logo.png"/>
 		
