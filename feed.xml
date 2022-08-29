@@ -8,9 +8,9 @@
 		<copyright>Aaron and Dell</copyright>
 		<itunes:subtitle>Nerd Talk I/O</itunes:subtitle>
 		<itunes:summary>
-			Aaron and Dell talk Reverse Engineering++ -- infosec, materials science, 3d printing, and a smattering of other nerdy matters. An audio hacky makerspace.
+			Aaron and Dell talk Reverse Engineering++ -- infosec, materials science, 3d printing, and a smattering of other nerdy matters. An audio hacky makerspace.  You can find more at https://repp.show
 		</itunes:summary>
-		<description>Aaron and Dell talk Reverse Engineering++ -- infosec, materials science, 3d printing, and a smattering of other nerdy matters. An audio hacky makerspace.</description>
+		<description>Aaron and Dell talk Reverse Engineering++ -- infosec, materials science, 3d printing, and a smattering of other nerdy matters. An audio hacky makerspace.  You can find more at https://repp.show</description>
 		
 		<itunes:owner>
 			<itunes:name><![CDATA[Aaron, Dell]]></itunes:name>
@@ -38,8 +38,8 @@
 			<pubDate>Sun, 7 Aug 2022 15:30:27 -0600</pubDate>
 			<link><![CDATA[https://www.repp.show/home/ep-0-repp]]></link>
 			<itunes:image href="https://repp-show.github.io/logo.png"/>
-			<description> <![CDATA[  Hello world from Aaron and Dell. In this ep, we talk motivation for the show, talk shop about some tooling, and talk about some other nerd shows that inspire us. You can find more at https://repp.show]]> </description>
-			<itunes:summary> <![CDATA[  Hello world from Aaron and Dell. In this ep, we talk motivation for the show, talk shop about some tooling, and talk about some other nerd shows that inspire us. You can find more at https://repp.show]]> </itunes:summary>
+			<description> <![CDATA[  Hello world from Aaron and Dell. In this ep, we talk motivation for the show, talk shop about some tooling, and talk about some other nerd shows that inspire us.]]> </description>
+			<itunes:summary> <![CDATA[  Hello world from Aaron and Dell. In this ep, we talk motivation for the show, talk shop about some tooling, and talk about some other nerd shows that inspire us.]]> </itunes:summary>
 			<itunes:subtitle> Ep. 0 - Hello world from Aaron and Dell. </itunes:subtitle>
 			<enclosure url="https://drive.google.com/uc?export=download&amp;id=1oRc-3BDFJaUFMSpx9VBNhHNvXf6T06Cc"
 							type="audio/mp3" length="4821"/>
