@@ -37,7 +37,7 @@
 			<itunes:title>Ep. 0 - Reverse Engineering Plus Plus</itunes:title>
 			<pubDate>Sun, 7 Aug 2022 15:30:27 -0600</pubDate>
 			<link><![CDATA[https://www.repp.show/home/ep-0-repp]]></link>
-			<itunes:image href="https://repp-show.github.io/logo.png"/>
+			<itunes:image href="https://repp-show.github.io/images/0.png"/>
 			<description> <![CDATA[  Hello world from Aaron and Dell. In this ep, we talk motivation for the show, talk shop about some tooling, and talk about some other nerd shows that inspire us.]]> </description>
 			<itunes:summary> <![CDATA[  Hello world from Aaron and Dell. In this ep, we talk motivation for the show, talk shop about some tooling, and talk about some other nerd shows that inspire us.]]> </itunes:summary>
 			<itunes:subtitle> Ep. 0 - Hello world from Aaron and Dell. </itunes:subtitle>
@@ -58,7 +58,7 @@
 			<itunes:title>Ep. 1 - Post DEF CON 30 Wrap-Up </itunes:title>
 			<pubDate>Sun, 21 Aug 2022 23:59:00 -0600</pubDate>
 			<link><![CDATA[https://www.repp.show/home/ep-1-dc30-wu]]></link>
-			<itunes:image href="https://lh5.googleusercontent.com/Ffxw3WWUf8h_aq2rUpWMwfOlvEv7wmRW-0mVU5be8hzPjZU2W-7GpdAhnJhX3lg-bKMIQHvvlKfd3G8Pu3_IWfhry-bFdq-cfzTI-ZSfHFVBgN9AlwmK7TACGVlmdm2GjQ=w1280"/>
+			<itunes:image href="https://repp-show.github.io/images/1.png"/>
 			<description> <![CDATA[  In this Episode, some highlights from DC30 -- the good, the bad, the ugly and some great talks about remotely stopping trucks, an audio engineer's take on infosec, and a tool for dynamic reverse engineering. ]]> </description>
 			<itunes:summary> <![CDATA[  In this Episode, some highlights from DC30 -- the good, the bad, the ugly and some great talks about remotely stopping trucks, an audio engineer's take on infosec, and a tool for dynamic reverse engineering. ]]> </itunes:summary>
 			<itunes:subtitle> Ep. 1 - DEFCON30 Wrap-Up. </itunes:subtitle>
@@ -73,7 +73,26 @@
 			<itunes:keywords>DEFCON,dynamic_analysis,infosec,technology,hacking,engineering,reverse_engineering,science,SRE</itunes:keywords>
 		</item>
 		
-
+		<item>
+			<guid isPermaLink="false">cbd21f61-423b-406e-9971-926ed8c70ee6</guid>
+			<title>Ep. 2 - Basics: Flash</title>
+			<itunes:title>Ep. 2 - Basics: Flash </itunes:title>
+			<pubDate>Sun, 28 Aug 2022 23:59:00 -0600</pubDate>
+			<link><![CDATA[https://www.repp.show/home/ep-2-basics-flash]]></link>
+			<itunes:image href="https://repp-show.github.io/images/2.png"/>
+			<description> <![CDATA[  Starting at the beginning of the RE process, we cover some different types of flash you may encounter and introduce the TL866 to pull off the memory from them.   A typical first step in hardware RE. ]]> </description>
+			<itunes:summary> <![CDATA[  Starting at the beginning of the RE process, we cover some different types of flash you may encounter and introduce the TL866 to pull off the memory from them.   A typical first step in hardware RE. ]]> </itunes:summary>
+			<itunes:subtitle> Ep. 2 - Basics: Flash </itunes:subtitle>
+			<enclosure url="https://drive.google.com/uc?export=download&id=1H_B_9knpqy1YTPLTvRGoBEgQjASDxz1U"
+							type="audio/mp3" length="2711"/>
+			<itunes:duration>2711</itunes:duration>
+			
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>Flash,slack_space,SPI,eMMC,ePMC,dynamic_analysis,technology,hacking,engineering,reverse_engineering,science</itunes:keywords>
+		</item>
 	</channel>
 </rss>
 	
