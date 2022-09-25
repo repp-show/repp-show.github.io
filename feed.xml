@@ -21,7 +21,7 @@
 		<image>
 			<url> https://repp-show.github.io/logo.png </url>
 			<title>Reverse Engineering++</title>
-			<link>https://www.repp.show/</link>
+			<link>https://www.repp.show</link>
 		</image>
 		<itunes:image href="https://repp-show.github.io/logo.png"/>
 		
@@ -76,7 +76,7 @@
 		<item>
 			<guid isPermaLink="false">cbd21f61-423b-406e-9971-926ed8c70ee6</guid>
 			<title>Ep. 2 - Basics: Flash</title>
-			<itunes:title>Ep. 2 - Basics: Flash </itunes:title>
+			<itunes:title>Ep. 2 - Basics: Flash</itunes:title>
 			<pubDate>Sun, 28 Aug 2022 23:59:00 -0600</pubDate>
 			<link><![CDATA[https://www.repp.show/home/ep-2-basics-flash]]></link>
 			<itunes:image href="https://repp-show.github.io/images/2.png"/>
