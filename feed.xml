@@ -93,6 +93,28 @@
 			<itunes:explicit>yes</itunes:explicit>
 			<itunes:keywords>Flash,slack_space,SPI,eMMC,ePMC,dynamic_analysis,technology,hacking,engineering,reverse_engineering,science</itunes:keywords>
 		</item>
+		
+		<item>
+			<guid isPermaLink="false">f9bbd58b-2b8c-4372-afcd-31719a9b7d44</guid>
+			<title>Ep. 3 - Out of Hibernation</title>
+			<itunes:title>Ep. 3 - Out of Hibernation</itunes:title>
+			<pubDate>Sun, 27 Nov 2022 23:59:00 -0600</pubDate>
+			<link><![CDATA[https://www.repp.show/home/ep-3-out-of-hibernation]]></link>
+			<itunes:image href="https://repp-show.github.io/images/3.png"/>
+			<description> <![CDATA[  Explaining the hiatus, personal projects, and building our own birdfeeders. ]]> </description>
+			<itunes:summary> <![CDATA[  Explaining the hiatus, personal projects, and building our own birdfeeders. ]]> </itunes:summary>
+			<itunes:subtitle> Ep. 3 - Out of Hibernation </itunes:subtitle>
+			<enclosure url="https://drive.google.com/uc?export=download&id=1yOBq7fIoBB0UFYesqR0HJzqTw3nMUSUt"
+							type="audio/mp3" length="2382"/>
+			<itunes:duration>2711</itunes:duration>
+			
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>technology,hacking,engineering,reverse_engineering,science</itunes:keywords>
+		</item>
+		
 	</channel>
 </rss>
 	
