@@ -11,26 +11,26 @@
 			Aaron and Dell talk Reverse Engineering++ -- infosec, materials science, 3d printing, and a smattering of other nerdy matters. An audio hacky makerspace.  You can find more at https://www.repp.show
 		</itunes:summary>
 		<description>Aaron and Dell talk Reverse Engineering++ -- infosec, materials science, 3d printing, and a smattering of other nerdy matters. An audio hacky makerspace.  You can find more at https://www.repp.show</description>
-		
+
 		<itunes:owner>
 			<itunes:name><![CDATA[Aaron, Dell]]></itunes:name>
 			<itunes:email>show@repp.show</itunes:email>
 		</itunes:owner>
 		<itunes:author><![CDATA[Aaron and Dell]]></itunes:author>
-		
+
 		<image>
 			<url> https://repp-show.github.io/logo.png </url>
 			<title>Reverse Engineering++</title>
 			<link>https://www.repp.show</link>
 		</image>
 		<itunes:image href="https://repp-show.github.io/logo.png"/>
-		
+
 		<itunes:category text="Education">
 			<itunes:category text="Self-Improvement"/>
 		</itunes:category>
 		<itunes:category text="Technology"/>
 		<itunes:explicit>no</itunes:explicit>
-		
+
 		<item>
 			<guid isPermaLink="false">ed262d0f-7a11-45af-8c89-44bb08326ecf</guid>
 			<title>Ep. 0 - Reverse Engineering Plus Plus</title>
@@ -44,14 +44,14 @@
 			<enclosure url="https://drive.google.com/uc?export=download&amp;id=1oRc-3BDFJaUFMSpx9VBNhHNvXf6T06Cc"
 							type="audio/mp3" length="4821"/>
 			<itunes:duration>4821</itunes:duration>
-			
+
 			<itunes:episode>1</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
-			
+
 			<itunes:explicit>yes</itunes:explicit>
 			<itunes:keywords>technology,hacking,engineering,reverse_engineering,science,SRE</itunes:keywords>
 		</item>
-		
+
 		<item>
 			<guid isPermaLink="false">0afb1a8d-1459-4762-a72e-52f40f88e4cf</guid>
 			<title>Ep. 1 - Post DEF CON 30 Wrap-Up </title>
@@ -65,14 +65,14 @@
 			<enclosure url="https://drive.google.com/uc?export=download&amp;id=1Wg_4zjoddX-QJv8evyBaj7yCx58hw7tV"
 							type="audio/mp3" length="5256"/>
 			<itunes:duration>5256</itunes:duration>
-			
+
 			<itunes:episode>2</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
-			
+
 			<itunes:explicit>yes</itunes:explicit>
 			<itunes:keywords>DEFCON,dynamic_analysis,infosec,technology,hacking,engineering,reverse_engineering,science,SRE</itunes:keywords>
 		</item>
-		
+
 		<item>
 			<guid isPermaLink="false">cbd21f61-423b-406e-9971-926ed8c70ee6</guid>
 			<title>Ep. 2 - Basics: Flash</title>
@@ -86,14 +86,14 @@
 			<enclosure url="https://drive.google.com/uc?export=download&amp;id=1H_B_9knpqy1YTPLTvRGoBEgQjASDxz1U"
 							type="audio/mp3" length="2711"/>
 			<itunes:duration>2711</itunes:duration>
-			
+
 			<itunes:episode>3</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
-			
+
 			<itunes:explicit>yes</itunes:explicit>
 			<itunes:keywords>Flash,slack_space,SPI,eMMC,ePMC,dynamic_analysis,technology,hacking,engineering,reverse_engineering,science</itunes:keywords>
 		</item>
-		
+
 		<item>
 			<guid isPermaLink="false">f9bbd58b-2b8c-4372-afcd-31719a9b7d44</guid>
 			<title>Ep. 3 - Out of Hibernation</title>
@@ -106,15 +106,35 @@
 			<itunes:subtitle> Ep. 3 - Out of Hibernation </itunes:subtitle>
 			<enclosure url="https://drive.google.com/uc?export=download&amp;id=1yOBq7fIoBB0UFYesqR0HJzqTw3nMUSUt"
 							type="audio/mp3" length="2382"/>
-			<itunes:duration>2711</itunes:duration>
-			
-			<itunes:episode>3</itunes:episode>
+			<itunes:duration>2382</itunes:duration>
+
+			<itunes:episode>4</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
-			
+
 			<itunes:explicit>yes</itunes:explicit>
 			<itunes:keywords>technology,hacking,engineering,reverse_engineering,science</itunes:keywords>
 		</item>
-		
+		<item>
+			<guid isPermaLink="false">390a5b17-7fa8-4ecb-9389-7240cb3d9ab0</guid>
+			<title>Ep. 4 - RTOS RE &amp; First Guest</title>
+			<itunes:title>Ep. 4 - RTOS RE &amp; First Guest</itunes:title>
+			<pubDate>Sun, 17 Mar 2024 23:59:00 -0600</pubDate>
+			<link><![CDATA[https://www.repp.show/home/ep-4-rtos-re-fist-guest]]></link>
+			<itunes:image href="https://repp-show.github.io/images/4.png"/>
+			<description> <![CDATA[  Where did the time go? Our first guest Ryan + RTOS RE! ]]> </description>
+			<itunes:summary> <![CDATA[  Where did the time go? Our first guest Ryan + RTOS RE! ]]> </itunes:summary>
+			<itunes:subtitle> Ep. 4 - RTOS RE &amp; First Guest </itunes:subtitle>
+			<enclosure url="https://drive.google.com/uc?export=download&amp;id=1INrqw7KI5zvPoWyLnEuVRaze1-puhw19"
+							type="audio/mp3" length="4474"/>
+			<itunes:duration>4474</itunes:duration>
+
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>technology,hacking,engineering,reverse_engineering,science,guest,rtos,freertos,real_time_operating_system,realtime</itunes:keywords>
+		</item>
+
 	</channel>
 </rss>
-	
+
