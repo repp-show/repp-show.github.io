@@ -32,7 +32,7 @@
 			<itunes:category text="Self-Improvement"/>
 		</itunes:category>
 		<itunes:category text="Technology"/>
-		<itunes:explicit>Yes</itunes:explicit>
+		<itunes:explicit>yes</itunes:explicit>
 
 		<item>
 			<guid isPermaLink="false">ed262d0f-7a11-45af-8c89-44bb08326ecf</guid>
