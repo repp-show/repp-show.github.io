@@ -134,7 +134,26 @@
 			<itunes:explicit>yes</itunes:explicit>
 			<itunes:keywords>technology,hacking,engineering,reverse_engineering,science,guest,rtos,freertos,real_time_operating_system,realtime</itunes:keywords>
 		</item>
+		<item>
+			<guid isPermaLink="false">a26a811a-0bf9-49db-9360-134aa661ec63</guid>
+			<title>Ep. 5 - An S-Box in Everything</title>
+			<itunes:title>Ep. 5 - An S-Box in Everything</itunes:title>
+			<pubDate>Fri, 29 Nov 2024 23:59:00 -0600</pubDate>
+			<link><![CDATA[https://www.repp.show/home/ep-4-rtos-re-fist-guest]]></link>
+			<itunes:image href="https://repp-show.github.io/images/5.png"/>
+			<description> <![CDATA[  Talking about some fun projects REing a COVID test, a private CTF badge, and file formats. ]]> </description>
+			<itunes:summary> <![CDATA[  Talking about some fun projects REing a COVID test, a private CTF badge, and file formats. ]]> </itunes:summary>
+			<itunes:subtitle> Ep. 5 - An S-Box in Everything </itunes:subtitle>
+			<enclosure url="https://drive.google.com/uc?export=download&amp;id=1ctEc7258xEkkFvqdF2A766Wy8WCXge8e"
+							type="audio/mp3" length="2548"/>
+			<itunes:duration>2548</itunes:duration>
 
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>technology,hacking,engineering,reverse_engineering,science,COVID_Test,CTF,badge,badgelife,file_format,magic_number</itunes:keywords>
+		</item>
 	</channel>
 </rss>
 
