@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  
-				   xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+				   xmlns:content="http://purl.org/rss/1.0/modules/content/"
 				   xmlns:atom="http://www.w3.org/2005/Atom"
 				   xmlns:podcast="https://podcastindex.org/namespace/1.0">
 	<channel>
@@ -117,7 +117,7 @@
 			<itunes:explicit>yes</itunes:explicit>
 			<itunes:keywords>technology,hacking,engineering,reverse_engineering,science</itunes:keywords>
 		</item>
-		
+
 		<item>
 			<guid isPermaLink="false">390a5b17-7fa8-4ecb-9389-7240cb3d9ab0</guid>
 			<title>Ep. 4 - RTOS RE &amp; First Guest</title>
@@ -138,7 +138,7 @@
 			<itunes:explicit>yes</itunes:explicit>
 			<itunes:keywords>technology,hacking,engineering,reverse_engineering,science,guest,rtos,freertos,real_time_operating_system,realtime</itunes:keywords>
 		</item>
-		
+
 		<item>
 			<guid isPermaLink="false">a26a811a-0bf9-49db-9360-134aa661ec63</guid>
 			<title>Ep. 5 - An S-Box in Everything</title>
@@ -158,6 +158,27 @@
 
 			<itunes:explicit>yes</itunes:explicit>
 			<itunes:keywords>technology,hacking,engineering,reverse_engineering,science,COVID_Test,CTF,badge,badgelife,file_format,magic_number</itunes:keywords>
+		</item>
+
+		<item>
+			<guid isPermaLink="false">b9a4edc0-566d-4658-9016-0dba937f8521</guid>
+			<title>Ep. 6 - Decompiling 2024 : The Final Bytes</title>
+			<itunes:title>Ep. 6 - Decompiling 2024 : The Final Bytes</itunes:title>
+			<pubDate>Sun, 29 Dec 2024 23:59:00 -0600</pubDate>
+			<link><![CDATA[https://www.repp.show/home/ep-6-decompiling-2024-the-final-bytes]]></link>
+			<itunes:image href="https://repp-show.github.io/images/6.png"/>
+			<description> <![CDATA[  Trials and triumphs for the year and what is to come in 2025. ]]> </description>
+			<itunes:summary> <![CDATA[  Trials and triumphs for the year and what is to come in 2025. ]]> </itunes:summary>
+			<itunes:subtitle> Ep. 6 - Decompiling 2024 : The Final Bytes </itunes:subtitle>
+			<enclosure url="https://drive.google.com/uc?export=download&amp;id=1NbOyZcMPhOBwCcX00vREG36xl-ZY7Iso"
+							type="audio/mp3" length="4017"/>
+			<itunes:duration>4017</itunes:duration>
+
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>technology,hacking,engineering,reverse_engineering,science,wrap_up,trials,triumphs,2025,iqengine,gnu_radio,esp32,cyd,cheap_yellow_device,flipper_zero</itunes:keywords>
 		</item>
 	</channel>
 </rss>
