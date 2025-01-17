@@ -26,7 +26,7 @@
 			<title>Reverse Engineering++</title>
 			<link>https://www.repp.show</link>
 		</image>
-		<itunes:image href="https://repp-show.github.io/logo.png"/>
+		<itunes:image href="https://repp-show.github.io/logo_outguess.jpg"/>
 
 		<itunes:category text="Education">
 			<itunes:category text="Self-Improvement"/>
@@ -169,7 +169,7 @@
 			<itunes:image href="https://repp-show.github.io/images/6.png"/>
 			<description> <![CDATA[  Trials and triumphs for the year and what is to come in 2025. ]]> </description>
 			<itunes:summary> <![CDATA[  Trials and triumphs for the year and what is to come in 2025. ]]> </itunes:summary>
-			<itunes:subtitle> Ep. 6 - Decompiling 2024 : The Final Bytes </itunes:subtitle>
+			<itunes:subtitle>Ep. 6 - Decompiling 2024 : The Final Bytes</itunes:subtitle>
 			<enclosure url="https://drive.google.com/uc?export=download&amp;id=1NbOyZcMPhOBwCcX00vREG36xl-ZY7Iso"
 							type="audio/mp3" length="4017"/>
 			<itunes:duration>4017</itunes:duration>
