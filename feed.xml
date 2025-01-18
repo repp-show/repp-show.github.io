@@ -178,6 +178,27 @@
 			<itunes:explicit>true</itunes:explicit>
 			<itunes:keywords>technology,hacking,engineering,reverse_engineering,science,wrap_up,trials,triumphs,2025,iqengine,gnu_radio,esp32,cyd,cheap_yellow_device,flipper_zero</itunes:keywords>
 		</item>
+
+		<item>
+			<guid isPermaLink="false">b7e1ba23-53a8-4d56-a188-e472f017bc9b</guid>
+			<title>Ep. 7 - [Guest] Bradan Lane</title>
+			<itunes:title>Ep. 7 - [Guest] Bradan Lane</itunes:title>
+			<pubDate>Sat, 18 Jan 2025 23:59:00 -0600</pubDate>
+			<link><![CDATA[https://www.repp.show/home/ep-7-guest-bradan-lane]]></link>
+			<itunes:image href="https://repp-show.github.io/images/7.png"/>
+			<description> <![CDATA[  Joined by our first guest of 2025, @bradanlane.bsky.social, of eChallenge coin fame -- a maker par excellence and frankly great dude. We discuss the hero origin story of a self-made embedded developer. ]]> </description>
+			<itunes:summary> <![CDATA[  Joined by our first guest of 2025, @bradanlane.bsky.social, of eChallenge coin fame -- a maker par excellence and frankly great dude. We discuss the hero origin story of a self-made embedded developer. ]]> </itunes:summary>
+			<itunes:subtitle>Ep. 7 - [Guest] Bradan Lane</itunes:subtitle>
+			<enclosure url="https://drive.google.com/uc?export=download&amp;id=1Oz9PaooJgFHrdntjwiOYgtwfh0zq4J1d"
+							type="audio/mp3" length="4762"/>
+			<itunes:duration>4762</itunes:duration>
+
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords>technology,hacking,engineering,reverse_engineering,science,bradanlane,bradan_lane,challenge_coin,guest,manufacturing,badge_life,badges,portaprog,adafruit,desk_of_lady_ada,UI,UX,Dark_UX,Smashcat</itunes:keywords>
+		</item>
 	</channel>
 </rss>
 
